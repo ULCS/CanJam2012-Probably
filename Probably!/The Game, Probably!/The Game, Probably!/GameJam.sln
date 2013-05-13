@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameJam", "GameJam\GameJam.csproj", "{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameJamContent", "GameJam\Content\GameJamContent.contentproj", "{30FE54B3-151C-42AE-8ECD-38BD102BA983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}.Debug|x86.ActiveCfg = Debug|x86
+		{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}.Debug|x86.Build.0 = Debug|x86
+		{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}.Release|x86.ActiveCfg = Release|x86
+		{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}.Release|x86.Build.0 = Release|x86
+		{F9FC9504-41E9-4F61-AC76-7233A2CBDCC5}.Release|Xbox 360.ActiveCfg = Release|x86
+		{30FE54B3-151C-42AE-8ECD-38BD102BA983}.Debug|x86.ActiveCfg = Debug|x86
+		{30FE54B3-151C-42AE-8ECD-38BD102BA983}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{30FE54B3-151C-42AE-8ECD-38BD102BA983}.Release|x86.ActiveCfg = Release|x86
+		{30FE54B3-151C-42AE-8ECD-38BD102BA983}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
